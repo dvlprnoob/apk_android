@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="Cors APK v1.4.5">
-      <change afterPath="$PROJECT_DIR$/opr_control/opr_control_v120.apk" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/opr_control/opr_control_v130.apk" afterDir="false" />
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic blom close trip">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,25 +19,27 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QulT4jQYDJNmBn9pf0cUQVmeJ1" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ASUS/Documents/apk_android&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kalikaliaja/AndroidStudioProjects/apk_android/opr_control&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/opr_control" />
+      <recent name="$PROJECT_DIR$/cors" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,21 +49,126 @@
       <option name="presentableId" value="Default" />
       <updated>1686211351183</updated>
     </task>
-    <task id="LOCAL-00001" summary="Cors APK v1.4.0">
-      <created>1690266284705</created>
+    <task id="LOCAL-00001" summary="v130">
+      <created>1688462549894</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1690266284705</updated>
+      <updated>1688462549894</updated>
     </task>
-    <task id="LOCAL-00002" summary="Cors APK v1.4.5">
-      <created>1690273260149</created>
+    <task id="LOCAL-00002" summary="add ver 145 filename 146">
+      <created>1690274300714</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1690273260149</updated>
+      <updated>1690274300714</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add ver 145 filename 146">
+      <created>1690277319690</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690277319690</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add ver 145 filename 146">
+      <created>1690277370663</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690277370663</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add ver 145 filename 146">
+      <created>1690348732072</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690348732072</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add ver 145 filename 146">
+      <created>1690352642036</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690352642036</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add ver 150 filename 146">
+      <created>1690452344883</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690452344883</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add ver 150 filename 146">
+      <created>1690785511377</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690785511377</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add oprcontrol test conflict install apk, where build from another IDE">
+      <created>1690785627370</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690785627370</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add oprcontrol test#2 conflict install apk, where build from another IDE - rollback">
+      <created>1690785931393</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690785931393</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Rollback oprcontrol delete 2 version v102, v103">
+      <created>1690786056480</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1690786056480</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[Update] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external">
+      <created>1691463475954</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691463475954</updated>
+    </task>
+    <task id="LOCAL-00013" summary="[bugfix] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external">
+      <created>1691480243790</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691480243790</updated>
+    </task>
+    <task id="LOCAL-00014" summary="[bugfix] - Di layar Triplist label trip dan value data dari trip number menjadi traffic count">
+      <created>1691487628555</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1691487628555</updated>
+    </task>
+    <task id="LOCAL-00015" summary="[bugfix] - Di layar Triplist label trip dan value data dari trip number menjadi traffic count">
+      <created>1691552756080</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1691552756080</updated>
+    </task>
+    <task id="LOCAL-00016" summary="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic Out dan blom close trip">
+      <created>1691566864331</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1691566864331</updated>
+    </task>
+    <task id="LOCAL-00017" summary="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic blom close trip">
+      <created>1691641469748</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1691641469748</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,16 +176,36 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Cors APK v1.4.0" />
-    <MESSAGE value="Cors APK v1.4.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cors APK v1.4.5" />
+    <MESSAGE value="v130" />
+    <MESSAGE value="add ver 145 filename 146" />
+    <MESSAGE value="add ver 150 filename 146" />
+    <MESSAGE value="add oprcontrol test conflict install apk, where build from another IDE" />
+    <MESSAGE value="add oprcontrol test#2 conflict install apk, where build from another IDE - rollback" />
+    <MESSAGE value="Rollback oprcontrol delete 2 version v102, v103" />
+    <MESSAGE value="[Update] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external" />
+    <MESSAGE value="[bugfix] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external" />
+    <MESSAGE value="[bugfix] - Di layar Triplist label trip dan value data dari trip number menjadi traffic count" />
+    <MESSAGE value="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic Out dan blom close trip" />
+    <MESSAGE value="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic blom close trip" />
+    <option name="LAST_COMMIT_MESSAGE" value="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic blom close trip" />
   </component>
 </project>
