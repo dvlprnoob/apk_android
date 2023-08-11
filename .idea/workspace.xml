@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic blom close trip">
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[update] - Lokasi/hub user, user picture">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +168,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691641469748</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="[update] - Lokasi/hub user, user picture">
+      <created>1691728356338</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1691728356338</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +213,7 @@
     <MESSAGE value="[bugfix] - Di layar Triplist label trip dan value data dari trip number menjadi traffic count" />
     <MESSAGE value="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic Out dan blom close trip" />
     <MESSAGE value="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic blom close trip" />
-    <option name="LAST_COMMIT_MESSAGE" value="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic blom close trip" />
+    <MESSAGE value="[update] - Lokasi/hub user, user picture" />
+    <option name="LAST_COMMIT_MESSAGE" value="[update] - Lokasi/hub user, user picture" />
   </component>
 </project>
