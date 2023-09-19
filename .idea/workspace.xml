@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[Change] - notif succes scan pl - handover, message sukses di buat general : &quot;Handover PL Success&quot;">
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - notif data has been saved setelah scan trip tanpa set In/Out">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,7 +203,63 @@
       <option name="project" value="LOCAL" />
       <updated>1691989166301</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip">
+      <created>1692784458125</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1692784458125</updated>
+    </task>
+    <task id="LOCAL-00024" summary="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip">
+      <created>1692784495960</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1692784495960</updated>
+    </task>
+    <task id="LOCAL-00025" summary="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip">
+      <created>1692849472136</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1692849472136</updated>
+    </task>
+    <task id="LOCAL-00026" summary="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip">
+      <created>1692935741368</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1692935741368</updated>
+    </task>
+    <task id="LOCAL-00027" summary="[add] - Fungsi Change Password">
+      <created>1693296328276</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1693296328276</updated>
+    </task>
+    <task id="LOCAL-00028" summary="[add] - notif data has been saved setelah scan trip tanpa set In/Out">
+      <created>1693371875374</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1693371875374</updated>
+    </task>
+    <task id="LOCAL-00029" summary="[add] - notif data has been saved setelah scan trip tanpa set In/Out">
+      <created>1693452778737</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1693452778737</updated>
+    </task>
+    <task id="LOCAL-00030" summary="[add] - notif data has been saved setelah scan trip tanpa set In/Out">
+      <created>1693465256985</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1693465256985</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +299,9 @@
     <MESSAGE value="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic blom close trip" />
     <MESSAGE value="[update] - Lokasi/hub user, user picture" />
     <MESSAGE value="[Change] - notif succes scan pl - handover, message sukses di buat general : &quot;Handover PL Success&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Change] - notif succes scan pl - handover, message sukses di buat general : &quot;Handover PL Success&quot;" />
+    <MESSAGE value="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip" />
+    <MESSAGE value="[add] - Fungsi Change Password" />
+    <MESSAGE value="[add] - notif data has been saved setelah scan trip tanpa set In/Out" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] - notif data has been saved setelah scan trip tanpa set In/Out" />
   </component>
 </project>
