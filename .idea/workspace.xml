@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - notif data has been saved setelah scan trip tanpa set In/Out">
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="delete conflict package v151">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,14 +30,14 @@
     &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/kalikaliaja/AndroidStudioProjects/apk_android/opr_control&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kalikaliaja/AndroidStudioProjects/apk_android/cors&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/opr_control" />
       <recent name="$PROJECT_DIR$/cors" />
+      <recent name="$PROJECT_DIR$/opr_control" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -259,7 +259,21 @@
       <option name="project" value="LOCAL" />
       <updated>1693465256985</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS">
+      <created>1695091455576</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1695091455576</updated>
+    </task>
+    <task id="LOCAL-00032" summary="delete conflict package v151">
+      <created>1695092901101</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1695092901101</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -302,6 +316,8 @@
     <MESSAGE value="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip" />
     <MESSAGE value="[add] - Fungsi Change Password" />
     <MESSAGE value="[add] - notif data has been saved setelah scan trip tanpa set In/Out" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] - notif data has been saved setelah scan trip tanpa set In/Out" />
+    <MESSAGE value="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS" />
+    <MESSAGE value="delete conflict package v151" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete conflict package v151" />
   </component>
 </project>
