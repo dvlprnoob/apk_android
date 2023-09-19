@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="delete conflict package v151">
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -273,7 +273,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695092901101</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS">
+      <created>1695095287170</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1695095287170</updated>
+    </task>
+    <task id="LOCAL-00034" summary="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS">
+      <created>1695096258461</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1695096258461</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,8 +330,8 @@
     <MESSAGE value="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip" />
     <MESSAGE value="[add] - Fungsi Change Password" />
     <MESSAGE value="[add] - notif data has been saved setelah scan trip tanpa set In/Out" />
-    <MESSAGE value="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS" />
     <MESSAGE value="delete conflict package v151" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete conflict package v151" />
+    <MESSAGE value="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS" />
   </component>
 </project>
