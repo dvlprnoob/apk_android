@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[change] - untuk solving bug pbs salah pasang dengan bs nya di list applicant, dikarenakan query data dibatasi tangga pengajuan satu bulan dari bulan berjalan dan sekarang range tanggal pada query di bypass/null">
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - mandatory update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +31,7 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/kalikaliaja/AndroidStudioProjects/apk_android/cors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
 }</component>
@@ -308,7 +309,49 @@
       <option name="project" value="LOCAL" />
       <updated>1695186154441</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="[change] - untuk solving bug pbs salah pasang dengan bs nya di list applicant, dikarenakan query data dibatasi tangga pengajuan satu bulan dari bulan berjalan dan sekarang range tanggal pada query di bypass/null">
+      <created>1695193547536</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1695193547536</updated>
+    </task>
+    <task id="LOCAL-00039" summary="[change] - query data dibatasi tangga pengajuan 2 bulan dari bulan berjalan">
+      <created>1695283042898</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1695283042898</updated>
+    </task>
+    <task id="LOCAL-00040" summary="[add] - mandatory update">
+      <created>1697529823831</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1697529823831</updated>
+    </task>
+    <task id="LOCAL-00041" summary="[add] - mandatory update">
+      <created>1697536578671</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1697536578671</updated>
+    </task>
+    <task id="LOCAL-00042" summary="[add] - mandatory update">
+      <created>1697537381159</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1697537381159</updated>
+    </task>
+    <task id="LOCAL-00043" summary="[add] - mandatory update">
+      <created>1697537552540</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1697537552540</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,6 +397,8 @@
     <MESSAGE value="delete conflict package v151" />
     <MESSAGE value="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS" />
     <MESSAGE value="[change] - untuk solving bug pbs salah pasang dengan bs nya di list applicant, dikarenakan query data dibatasi tangga pengajuan satu bulan dari bulan berjalan dan sekarang range tanggal pada query di bypass/null" />
-    <option name="LAST_COMMIT_MESSAGE" value="[change] - untuk solving bug pbs salah pasang dengan bs nya di list applicant, dikarenakan query data dibatasi tangga pengajuan satu bulan dari bulan berjalan dan sekarang range tanggal pada query di bypass/null" />
+    <MESSAGE value="[change] - query data dibatasi tangga pengajuan 2 bulan dari bulan berjalan" />
+    <MESSAGE value="[add] - mandatory update" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] - mandatory update" />
   </component>
 </project>
