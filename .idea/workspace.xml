@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[del] - rollback verioning from 1.6.2 to 1.5.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cors/cors-v152.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-vbeta-152.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cors/cors-v153.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-vbeta-153.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cors/cors-v154.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-vbeta-154.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cors/cors-v155.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-v151.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cors/cors-v162.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-vbeta-162.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cors/cors-vbeta-152.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-v002.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cors/cors-vbeta-153.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-v003.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cors/cors-vbeta-154.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-v004.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cors/cors-vbeta-162.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-v062.apk" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +52,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686211351183</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add ver 145 filename 146">
-      <created>1690274300714</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1690274300714</updated>
     </task>
     <task id="LOCAL-00003" summary="add ver 145 filename 146">
       <created>1690277319690</created>
@@ -398,7 +389,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698834120314</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="[del] - rollback verioning from 1.6.2 to 1.5.1">
+      <created>1698834498149</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1698834498149</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
