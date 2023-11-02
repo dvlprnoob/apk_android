@@ -50,34 +50,6 @@
       <option name="presentableId" value="Default" />
       <updated>1686211351183</updated>
     </task>
-    <task id="LOCAL-00009" summary="add oprcontrol test conflict install apk, where build from another IDE">
-      <created>1690785627370</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1690785627370</updated>
-    </task>
-    <task id="LOCAL-00010" summary="add oprcontrol test#2 conflict install apk, where build from another IDE - rollback">
-      <created>1690785931393</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1690785931393</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Rollback oprcontrol delete 2 version v102, v103">
-      <created>1690786056480</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1690786056480</updated>
-    </task>
-    <task id="LOCAL-00012" summary="[Update] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external">
-      <created>1691463475954</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1691463475954</updated>
-    </task>
     <task id="LOCAL-00013" summary="[bugfix] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external">
       <created>1691480243790</created>
       <option name="number" value="00013" />
@@ -393,7 +365,35 @@
       <option name="project" value="LOCAL" />
       <updated>1698895210564</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="[add] - v1.6.0">
+      <created>1698896290550</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1698896290550</updated>
+    </task>
+    <task id="LOCAL-00059" summary="[add] - v1.6.0">
+      <created>1698918463362</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1698918463362</updated>
+    </task>
+    <task id="LOCAL-00060" summary="[add] - v1.6.0">
+      <created>1698918652944</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1698918652944</updated>
+    </task>
+    <task id="LOCAL-00061" summary="[add] - v1.6.0">
+      <created>1698918713723</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1698918713723</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
