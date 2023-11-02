@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[del] - rollback verioning from 1.6.2 to 1.5.1">
-      <change beforePath="$PROJECT_DIR$/cors/cors-vbeta-152.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-v002.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cors/cors-vbeta-153.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-v003.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cors/cors-vbeta-154.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-v004.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cors/cors-vbeta-162.apk" beforeDir="false" afterPath="$PROJECT_DIR$/cors/cors-v062.apk" afterDir="false" />
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - v1.6.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,48 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686211351183</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add ver 145 filename 146">
-      <created>1690277319690</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1690277319690</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add ver 145 filename 146">
-      <created>1690277370663</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1690277370663</updated>
-    </task>
-    <task id="LOCAL-00005" summary="add ver 145 filename 146">
-      <created>1690348732072</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1690348732072</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add ver 145 filename 146">
-      <created>1690352642036</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1690352642036</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add ver 150 filename 146">
-      <created>1690452344883</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1690452344883</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add ver 150 filename 146">
-      <created>1690785511377</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1690785511377</updated>
     </task>
     <task id="LOCAL-00009" summary="add oprcontrol test conflict install apk, where build from another IDE">
       <created>1690785627370</created>
@@ -396,7 +351,49 @@
       <option name="project" value="LOCAL" />
       <updated>1698834498149</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="[del] - rollback verioning from 1.6.2 to 1.5.1">
+      <created>1698834505805</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1698834505805</updated>
+    </task>
+    <task id="LOCAL-00053" summary="[add] - v1.6.0">
+      <created>1698837561401</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1698837561401</updated>
+    </task>
+    <task id="LOCAL-00054" summary="[add] - v1.6.0">
+      <created>1698837843186</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1698837843186</updated>
+    </task>
+    <task id="LOCAL-00055" summary="[add] - v1.6.0">
+      <created>1698894095176</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1698894095176</updated>
+    </task>
+    <task id="LOCAL-00056" summary="[add] - v1.6.0">
+      <created>1698895089682</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1698895089682</updated>
+    </task>
+    <task id="LOCAL-00057" summary="[add] - v1.6.0">
+      <created>1698895210564</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1698895210564</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -445,6 +442,7 @@
     <MESSAGE value="[change] - query data dibatasi tangga pengajuan 2 bulan dari bulan berjalan" />
     <MESSAGE value="[add] - mandatory update" />
     <MESSAGE value="[del] - rollback verioning from 1.6.2 to 1.5.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="[del] - rollback verioning from 1.6.2 to 1.5.1" />
+    <MESSAGE value="[add] - v1.6.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] - v1.6.0" />
   </component>
 </project>
