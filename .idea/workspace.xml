@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - v1.6.0">
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - v1.7.0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,20 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686211351183</updated>
-    </task>
-    <task id="LOCAL-00013" summary="[bugfix] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external">
-      <created>1691480243790</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1691480243790</updated>
-    </task>
-    <task id="LOCAL-00014" summary="[bugfix] - Di layar Triplist label trip dan value data dari trip number menjadi traffic count">
-      <created>1691487628555</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1691487628555</updated>
     </task>
     <task id="LOCAL-00015" summary="[bugfix] - Di layar Triplist label trip dan value data dari trip number menjadi traffic count">
       <created>1691552756080</created>
@@ -393,7 +379,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698918713723</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="[add] - v1.6.0">
+      <created>1698918987926</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1698918987926</updated>
+    </task>
+    <task id="LOCAL-00063" summary="[add] - v1.7.0">
+      <created>1709613670642</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1709613670642</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -443,6 +443,7 @@
     <MESSAGE value="[add] - mandatory update" />
     <MESSAGE value="[del] - rollback verioning from 1.6.2 to 1.5.1" />
     <MESSAGE value="[add] - v1.6.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] - v1.6.0" />
+    <MESSAGE value="[add] - v1.7.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] - v1.7.0" />
   </component>
 </project>
