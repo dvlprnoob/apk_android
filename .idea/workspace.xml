@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[remove] - v1.7.1" />
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - v1.7.1 with old signkey">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,20 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686211351183</updated>
-    </task>
-    <task id="LOCAL-00018" summary="[update] - Lokasi/hub user, user picture">
-      <created>1691728356338</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1691728356338</updated>
-    </task>
-    <task id="LOCAL-00019" summary="[Change] - notif succes scan pl - handover, message sukses di buat general : &quot;Handover PL Success&quot;">
-      <created>1691747080481</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1691747080481</updated>
     </task>
     <task id="LOCAL-00020" summary="[Change] - notif succes scan pl - handover, message sukses di buat general : &quot;Handover PL Success&quot;">
       <created>1691984626233</created>
@@ -391,7 +379,21 @@
       <option name="project" value="LOCAL" />
       <updated>1709703664314</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="[add] - v1.7.1">
+      <created>1709704182731</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1709704182731</updated>
+    </task>
+    <task id="LOCAL-00068" summary="[add] - v1.7.1 with old signkey">
+      <created>1709704204673</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1709704204673</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -418,7 +420,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ver 145 filename 146" />
     <MESSAGE value="add ver 150 filename 146" />
     <MESSAGE value="add oprcontrol test conflict install apk, where build from another IDE" />
     <MESSAGE value="add oprcontrol test#2 conflict install apk, where build from another IDE - rollback" />
@@ -441,8 +442,9 @@
     <MESSAGE value="[del] - rollback verioning from 1.6.2 to 1.5.1" />
     <MESSAGE value="[add] - v1.6.0" />
     <MESSAGE value="[add] - v1.7.0" />
-    <MESSAGE value="[add] - v1.7.1" />
     <MESSAGE value="[remove] - v1.7.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="[remove] - v1.7.1" />
+    <MESSAGE value="[add] - v1.7.1" />
+    <MESSAGE value="[add] - v1.7.1 with old signkey" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] - v1.7.1 with old signkey" />
   </component>
 </project>
