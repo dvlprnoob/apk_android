@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - v1.7.0">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[remove] - v1.7.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,27 +47,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686211351183</updated>
-    </task>
-    <task id="LOCAL-00015" summary="[bugfix] - Di layar Triplist label trip dan value data dari trip number menjadi traffic count">
-      <created>1691552756080</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1691552756080</updated>
-    </task>
-    <task id="LOCAL-00016" summary="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic Out dan blom close trip">
-      <created>1691566864331</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1691566864331</updated>
-    </task>
-    <task id="LOCAL-00017" summary="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic blom close trip">
-      <created>1691641469748</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1691641469748</updated>
     </task>
     <task id="LOCAL-00018" summary="[update] - Lokasi/hub user, user picture">
       <created>1691728356338</created>
@@ -393,7 +370,28 @@
       <option name="project" value="LOCAL" />
       <updated>1709613670642</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="[add] - v1.7.0">
+      <created>1709703529375</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1709703529376</updated>
+    </task>
+    <task id="LOCAL-00065" summary="[add] - v1.7.1">
+      <created>1709703536204</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1709703536204</updated>
+    </task>
+    <task id="LOCAL-00066" summary="[remove] - v1.7.1">
+      <created>1709703664314</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1709703664314</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,7 +418,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="v130" />
     <MESSAGE value="add ver 145 filename 146" />
     <MESSAGE value="add ver 150 filename 146" />
     <MESSAGE value="add oprcontrol test conflict install apk, where build from another IDE" />
@@ -444,6 +441,8 @@
     <MESSAGE value="[del] - rollback verioning from 1.6.2 to 1.5.1" />
     <MESSAGE value="[add] - v1.6.0" />
     <MESSAGE value="[add] - v1.7.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] - v1.7.0" />
+    <MESSAGE value="[add] - v1.7.1" />
+    <MESSAGE value="[remove] - v1.7.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="[remove] - v1.7.1" />
   </component>
 </project>
