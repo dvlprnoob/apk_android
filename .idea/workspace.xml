@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - v1.7.1 with old signkey">
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - v1.0.1 cors cirebon">
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +25,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/kalikaliaja/AndroidStudioProjects/apk_android/cors&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "/home/kalikaliaja/AndroidStudioProjects/apk_android/cors",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cors" />
@@ -49,27 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686211351183</updated>
-    </task>
-    <task id="LOCAL-00020" summary="[Change] - notif succes scan pl - handover, message sukses di buat general : &quot;Handover PL Success&quot;">
-      <created>1691984626233</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1691984626233</updated>
-    </task>
-    <task id="LOCAL-00021" summary="[Change] - notif succes scan pl - handover, message sukses di buat general : &quot;Handover PL Success&quot;">
-      <created>1691989146815</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1691989146815</updated>
-    </task>
-    <task id="LOCAL-00022" summary="[Change] - notif succes scan pl - handover, message sukses di buat general : &quot;Handover PL Success&quot;">
-      <created>1691989166301</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1691989166301</updated>
     </task>
     <task id="LOCAL-00023" summary="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip">
       <created>1692784458125</created>
@@ -393,7 +376,28 @@
       <option name="project" value="LOCAL" />
       <updated>1709704204673</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="[remove] - v1.7.1 with old signkey">
+      <created>1709709101468</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1709709101468</updated>
+    </task>
+    <task id="LOCAL-00070" summary="[add] - v1.0.0 cors cirebon">
+      <created>1714972178145</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1714972178145</updated>
+    </task>
+    <task id="LOCAL-00071" summary="[add] - v1.0.1 cors cirebon">
+      <created>1715054750712</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1715054750712</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -420,9 +424,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add ver 150 filename 146" />
-    <MESSAGE value="add oprcontrol test conflict install apk, where build from another IDE" />
-    <MESSAGE value="add oprcontrol test#2 conflict install apk, where build from another IDE - rollback" />
     <MESSAGE value="Rollback oprcontrol delete 2 version v102, v103" />
     <MESSAGE value="[Update] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external" />
     <MESSAGE value="[bugfix] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external" />
@@ -445,6 +446,9 @@
     <MESSAGE value="[remove] - v1.7.1" />
     <MESSAGE value="[add] - v1.7.1" />
     <MESSAGE value="[add] - v1.7.1 with old signkey" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] - v1.7.1 with old signkey" />
+    <MESSAGE value="[remove] - v1.7.1 with old signkey" />
+    <MESSAGE value="[add] - v1.0.0 cors cirebon" />
+    <MESSAGE value="[add] - v1.0.1 cors cirebon" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add] - v1.0.1 cors cirebon" />
   </component>
 </project>
