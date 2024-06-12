@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[add] - v1.0.1 cors cirebon">
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[rebuild] - v1.1.0 &#10;&#10;Description : ReBuild and reupload">
+      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,20 +24,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cidr.known.project.marker": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "last_opened_file_path": "/home/kalikaliaja/AndroidStudioProjects/apk_android/cors",
-    "settings.editor.selected.configurable": "flutter.settings",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/kalikaliaja/AndroidStudioProjects/apk_android/cors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
+  <component name="Push.Settings">
+    <force-push-targets>
+      <force-push-target remote-path="origin" branch="main" />
+    </force-push-targets>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cors" />
@@ -53,90 +57,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686211351183</updated>
-    </task>
-    <task id="LOCAL-00023" summary="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip">
-      <created>1692784458125</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1692784458125</updated>
-    </task>
-    <task id="LOCAL-00024" summary="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip">
-      <created>1692784495960</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1692784495960</updated>
-    </task>
-    <task id="LOCAL-00025" summary="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip">
-      <created>1692849472136</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1692849472136</updated>
-    </task>
-    <task id="LOCAL-00026" summary="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip">
-      <created>1692935741368</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1692935741368</updated>
-    </task>
-    <task id="LOCAL-00027" summary="[add] - Fungsi Change Password">
-      <created>1693296328276</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1693296328276</updated>
-    </task>
-    <task id="LOCAL-00028" summary="[add] - notif data has been saved setelah scan trip tanpa set In/Out">
-      <created>1693371875374</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1693371875374</updated>
-    </task>
-    <task id="LOCAL-00029" summary="[add] - notif data has been saved setelah scan trip tanpa set In/Out">
-      <created>1693452778737</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1693452778737</updated>
-    </task>
-    <task id="LOCAL-00030" summary="[add] - notif data has been saved setelah scan trip tanpa set In/Out">
-      <created>1693465256985</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1693465256985</updated>
-    </task>
-    <task id="LOCAL-00031" summary="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS">
-      <created>1695091455576</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1695091455576</updated>
-    </task>
-    <task id="LOCAL-00032" summary="delete conflict package v151">
-      <created>1695092901101</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1695092901101</updated>
-    </task>
-    <task id="LOCAL-00033" summary="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS">
-      <created>1695095287170</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1695095287170</updated>
-    </task>
-    <task id="LOCAL-00034" summary="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS">
-      <created>1695096258461</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1695096258461</updated>
     </task>
     <task id="LOCAL-00035" summary="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS">
       <created>1695097693326</created>
@@ -397,7 +317,91 @@
       <option name="project" value="LOCAL" />
       <updated>1715054750712</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="[add] - v1.0.1 cors cirebon">
+      <created>1715055784619</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1715055784619</updated>
+    </task>
+    <task id="LOCAL-00073" summary="[add] - v1.0.1 cors cirebon">
+      <created>1715071415074</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1715071415074</updated>
+    </task>
+    <task id="LOCAL-00074" summary="[add] - v1.0.1 cors cirebon">
+      <created>1715685640065</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1715685640065</updated>
+    </task>
+    <task id="LOCAL-00075" summary="[add] - v1.0.1 cors cirebon">
+      <created>1715838218552</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1715838218552</updated>
+    </task>
+    <task id="LOCAL-00076" summary="[add] - v1.0.1 cors cirebon">
+      <created>1716192811775</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1716192811775</updated>
+    </task>
+    <task id="LOCAL-00077" summary="[add] - v1.0.6 input Pak Amrizal sebagai Dirut">
+      <created>1716278185048</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1716278185048</updated>
+    </task>
+    <task id="LOCAL-00078" summary="[add] - v1.0.6 update build version">
+      <created>1716361362508</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1716361362508</updated>
+    </task>
+    <task id="LOCAL-00079" summary="[add] - v1.0.7 resolve task JIRA CORM-229&#10;Description&#10;&#10;Perubahan : Terdapat info dari pak wahyu bahwa untuk user yang bisa melakukan Reject di segala kondisi yaitu diganti oleh user CBN01970522/ Wahyu Aji.">
+      <created>1716361754709</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1716361754709</updated>
+    </task>
+    <task id="LOCAL-00080" summary="[bugfix] - v1.0.8 resolve task JIRA CORM-236&#10;Description&#10;&#10;Untuk Create Request Pengajuan Pembelian, Pembayaran, Reimbursment &amp; Penyelesaian Bon Sementara untuk Upload File &amp; Upload Foto nya bersifat Mandatory.&#10;&#10;Notes : Hanya Create Request Bon Sementara aja yang Upload File &amp; Foto nya Tidak Mandatory.">
+      <created>1716366285067</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1716366285068</updated>
+    </task>
+    <task id="LOCAL-00081" summary="[bugfix] - v1.0.9 resolve task JIRA CORM-240&#10;Description&#10;&#10;Untuk Pengajuan Pembayaran, Pembelian, Reimbursment, &amp; Bon Sementara apabila Select type nya - Tidak Rutin &amp; Budget Code nya - No, maka user mandatory untuk melakukan Upload Disposisi.&#10;&#10;[enhance] - v1.0.9 resolve task JIRA CORM-251&#10;Description&#10;&#10;Perubahan Logo CORS CBN">
+      <created>1716802842841</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1716802842841</updated>
+    </task>
+    <task id="LOCAL-00082" summary="[rebuild] - v1.1.0 resolve task JIRA CORM-252&#10;Description&#10;Apabila user sudah memiliki App Mobile CORS TGR lalu ingin mendownload Apk Mobile CORS CBN maka App Mobile CORS CBN menimpa App CORS TGR.&#10;&#10;note : generate new package name id.ske.cors">
+      <created>1716810025814</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1716810025814</updated>
+    </task>
+    <task id="LOCAL-00083" summary="[rebuild] - v1.1.0 &#10;&#10;Description : ReBuild and reupload">
+      <created>1716868960231</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1716868960231</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -424,13 +428,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Rollback oprcontrol delete 2 version v102, v103" />
-    <MESSAGE value="[Update] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external" />
-    <MESSAGE value="[bugfix] - Di layar Triplist sudah dapat menampilkan nama HUB External jika dia pickup di external" />
-    <MESSAGE value="[bugfix] - Di layar Triplist label trip dan value data dari trip number menjadi traffic count" />
-    <MESSAGE value="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic Out dan blom close trip" />
-    <MESSAGE value="[update] - tambah validasi data yg ditampilkan dengan kondisi status traffic blom close trip" />
-    <MESSAGE value="[update] - Lokasi/hub user, user picture" />
     <MESSAGE value="[Change] - notif succes scan pl - handover, message sukses di buat general : &quot;Handover PL Success&quot;" />
     <MESSAGE value="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip" />
     <MESSAGE value="[add] - Fungsi Change Password" />
@@ -449,6 +446,13 @@
     <MESSAGE value="[remove] - v1.7.1 with old signkey" />
     <MESSAGE value="[add] - v1.0.0 cors cirebon" />
     <MESSAGE value="[add] - v1.0.1 cors cirebon" />
-    <option name="LAST_COMMIT_MESSAGE" value="[add] - v1.0.1 cors cirebon" />
+    <MESSAGE value="[add] - v1.0.6 input Pak Amrizal sebagai Dirut" />
+    <MESSAGE value="[add] - v1.0.6 update build version" />
+    <MESSAGE value="[add] - v1.0.7 resolve task JIRA CORM-229&#10;Description&#10;&#10;Perubahan : Terdapat info dari pak wahyu bahwa untuk user yang bisa melakukan Reject di segala kondisi yaitu diganti oleh user CBN01970522/ Wahyu Aji." />
+    <MESSAGE value="[bugfix] - v1.0.8 resolve task JIRA CORM-236&#10;Description&#10;&#10;Untuk Create Request Pengajuan Pembelian, Pembayaran, Reimbursment &amp; Penyelesaian Bon Sementara untuk Upload File &amp; Upload Foto nya bersifat Mandatory.&#10;&#10;Notes : Hanya Create Request Bon Sementara aja yang Upload File &amp; Foto nya Tidak Mandatory." />
+    <MESSAGE value="[bugfix] - v1.0.9 resolve task JIRA CORM-240&#10;Description&#10;&#10;Untuk Pengajuan Pembayaran, Pembelian, Reimbursment, &amp; Bon Sementara apabila Select type nya - Tidak Rutin &amp; Budget Code nya - No, maka user mandatory untuk melakukan Upload Disposisi.&#10;&#10;[enhance] - v1.0.9 resolve task JIRA CORM-251&#10;Description&#10;&#10;Perubahan Logo CORS CBN" />
+    <MESSAGE value="[rebuild] - v1.1.0 resolve task JIRA CORM-252&#10;Description&#10;Apabila user sudah memiliki App Mobile CORS TGR lalu ingin mendownload Apk Mobile CORS CBN maka App Mobile CORS CBN menimpa App CORS TGR.&#10;&#10;note : generate new package name id.ske.cors" />
+    <MESSAGE value="[rebuild] - v1.1.0 &#10;&#10;Description : ReBuild and reupload" />
+    <option name="LAST_COMMIT_MESSAGE" value="[rebuild] - v1.1.0 &#10;&#10;Description : ReBuild and reupload" />
   </component>
 </project>
