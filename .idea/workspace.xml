@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[rebuild] - v1.1.0 &#10;&#10;Description : ReBuild and reupload">
-      <change beforePath="$PROJECT_DIR$/.idea/markdown-navigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[Enhance] - v2.12&#10;&#10;Change Log CORS Versi 2.1.2 :&#10;1. Attachment Foto dapat menampilkan lampiran foto tanpa harus klik file foto.&#10;2. Penambahan fitur Carousel (Slide gambar) apabila foto yang dilampirkan lebih dari satu.&#10;3. Notifikasi (Dashboard &gt; Lonceng) : &#10;- Perubahan keterangan list pengajuan pada Notifikasi.&#10;- Saat diklik, sistem langsung mengarahkan ke detail pengajuan terkait.&#10;4. Preview pengajuan dibuat full layar pada menu Notifikasi &amp; Request Applicant.&#10;5. Perubahan penyajian data pada &quot;See Details&quot; BS &amp; PBS : &#10;* Pengajuan BS → tampilkan hanya detail pengajuan BS.&#10;* Pengajuan PBS → tampilkan lengkap BS+PBS.&#10;6. Lampiran foto ZIP pada pengajuan bisa dilakukan download. &#10;7. Optimasi Load Data Aplicant (Percepatan Penyajian Data)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,31 +12,40 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2QulT4jQYDJNmBn9pf0cUQVmeJ1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/kalikaliaja/AndroidStudioProjects/apk_android/cors&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
-    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/kalikaliaja/AndroidStudioProjects/apk_android",
+    "settings.editor.selected.configurable": "flutter.settings",
+    "show.migrate.to.gradle.popup": "false"
   }
-}</component>
+}]]></component>
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="main" />
@@ -46,6 +54,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/cors" />
+      <recent name="$PROJECT_DIR$/cors-cbn" />
       <recent name="$PROJECT_DIR$/opr_control" />
     </key>
   </component>
@@ -401,7 +410,7 @@
       <option name="project" value="LOCAL" />
       <updated>1716868960231</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -428,11 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[Change] - notif succes scan pl - handover, message sukses di buat general : &quot;Handover PL Success&quot;" />
-    <MESSAGE value="[add] - proses loading data setelah hit get data, di screen handover list&#10;[bugfix] - value nip bukan no nip" />
-    <MESSAGE value="[add] - Fungsi Change Password" />
-    <MESSAGE value="[add] - notif data has been saved setelah scan trip tanpa set In/Out" />
-    <MESSAGE value="delete conflict package v151" />
     <MESSAGE value="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS" />
     <MESSAGE value="[change] - untuk solving bug pbs salah pasang dengan bs nya di list applicant, dikarenakan query data dibatasi tangga pengajuan satu bulan dari bulan berjalan dan sekarang range tanggal pada query di bypass/null" />
     <MESSAGE value="[change] - query data dibatasi tangga pengajuan 2 bulan dari bulan berjalan" />
@@ -453,6 +457,11 @@
     <MESSAGE value="[bugfix] - v1.0.9 resolve task JIRA CORM-240&#10;Description&#10;&#10;Untuk Pengajuan Pembayaran, Pembelian, Reimbursment, &amp; Bon Sementara apabila Select type nya - Tidak Rutin &amp; Budget Code nya - No, maka user mandatory untuk melakukan Upload Disposisi.&#10;&#10;[enhance] - v1.0.9 resolve task JIRA CORM-251&#10;Description&#10;&#10;Perubahan Logo CORS CBN" />
     <MESSAGE value="[rebuild] - v1.1.0 resolve task JIRA CORM-252&#10;Description&#10;Apabila user sudah memiliki App Mobile CORS TGR lalu ingin mendownload Apk Mobile CORS CBN maka App Mobile CORS CBN menimpa App CORS TGR.&#10;&#10;note : generate new package name id.ske.cors" />
     <MESSAGE value="[rebuild] - v1.1.0 &#10;&#10;Description : ReBuild and reupload" />
-    <option name="LAST_COMMIT_MESSAGE" value="[rebuild] - v1.1.0 &#10;&#10;Description : ReBuild and reupload" />
+    <MESSAGE value="[rebuild] - v1.1.1 &#10;&#10;Description : ReBuild and reupload" />
+    <MESSAGE value="[rebuild] - v2.0.1&#10;&#10;Description : production version" />
+    <MESSAGE value="[rename] - v2.0.1&#10;&#10;Description : rename file apk" />
+    <MESSAGE value="[rename] - v2.0.0&#10;&#10;Description : optimalisasi" />
+    <MESSAGE value="[Enhance] - v2.12&#10;&#10;Change Log CORS Versi 2.1.2 :&#10;1. Attachment Foto dapat menampilkan lampiran foto tanpa harus klik file foto.&#10;2. Penambahan fitur Carousel (Slide gambar) apabila foto yang dilampirkan lebih dari satu.&#10;3. Notifikasi (Dashboard &gt; Lonceng) : &#10;- Perubahan keterangan list pengajuan pada Notifikasi.&#10;- Saat diklik, sistem langsung mengarahkan ke detail pengajuan terkait.&#10;4. Preview pengajuan dibuat full layar pada menu Notifikasi &amp; Request Applicant.&#10;5. Perubahan penyajian data pada &quot;See Details&quot; BS &amp; PBS : &#10;* Pengajuan BS → tampilkan hanya detail pengajuan BS.&#10;* Pengajuan PBS → tampilkan lengkap BS+PBS.&#10;6. Lampiran foto ZIP pada pengajuan bisa dilakukan download. &#10;7. Optimasi Load Data Aplicant (Percepatan Penyajian Data)" />
+    <option name="LAST_COMMIT_MESSAGE" value="[Enhance] - v2.12&#10;&#10;Change Log CORS Versi 2.1.2 :&#10;1. Attachment Foto dapat menampilkan lampiran foto tanpa harus klik file foto.&#10;2. Penambahan fitur Carousel (Slide gambar) apabila foto yang dilampirkan lebih dari satu.&#10;3. Notifikasi (Dashboard &gt; Lonceng) : &#10;- Perubahan keterangan list pengajuan pada Notifikasi.&#10;- Saat diklik, sistem langsung mengarahkan ke detail pengajuan terkait.&#10;4. Preview pengajuan dibuat full layar pada menu Notifikasi &amp; Request Applicant.&#10;5. Perubahan penyajian data pada &quot;See Details&quot; BS &amp; PBS : &#10;* Pengajuan BS → tampilkan hanya detail pengajuan BS.&#10;* Pengajuan PBS → tampilkan lengkap BS+PBS.&#10;6. Lampiran foto ZIP pada pengajuan bisa dilakukan download. &#10;7. Optimasi Load Data Aplicant (Percepatan Penyajian Data)" />
   </component>
 </project>
