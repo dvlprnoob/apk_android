@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[Enhance] - v2.12&#10;&#10;Change Log CORS Versi 2.1.2 :&#10;1. Attachment Foto dapat menampilkan lampiran foto tanpa harus klik file foto.&#10;2. Penambahan fitur Carousel (Slide gambar) apabila foto yang dilampirkan lebih dari satu.&#10;3. Notifikasi (Dashboard &gt; Lonceng) : &#10;- Perubahan keterangan list pengajuan pada Notifikasi.&#10;- Saat diklik, sistem langsung mengarahkan ke detail pengajuan terkait.&#10;4. Preview pengajuan dibuat full layar pada menu Notifikasi &amp; Request Applicant.&#10;5. Perubahan penyajian data pada &quot;See Details&quot; BS &amp; PBS : &#10;* Pengajuan BS → tampilkan hanya detail pengajuan BS.&#10;* Pengajuan PBS → tampilkan lengkap BS+PBS.&#10;6. Lampiran foto ZIP pada pengajuan bisa dilakukan download. &#10;7. Optimasi Load Data Aplicant (Percepatan Penyajian Data)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d6eb891-0490-4d27-ae5e-2cb04308eeb0" name="Changes" comment="[change] - fullscreen untuk detail item CORS (Bottom Dialog), screen Budget Report&#10;[change] - Photo gallery/carousel/preview di attach dokumen foto di screen" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +39,7 @@
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/kalikaliaja/AndroidStudioProjects/apk_android",
+    "last_opened_file_path": "/home/kalikaliaja/AndroidStudioProjects/apk_android/cors",
     "settings.editor.selected.configurable": "flutter.settings",
     "show.migrate.to.gradle.popup": "false"
   }
@@ -410,7 +408,7 @@
       <option name="project" value="LOCAL" />
       <updated>1716868960231</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +435,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="[Add] - Penambahan Fitur Search Item CORS berdasarkan code CORS dan Kategory CORS" />
     <MESSAGE value="[change] - untuk solving bug pbs salah pasang dengan bs nya di list applicant, dikarenakan query data dibatasi tangga pengajuan satu bulan dari bulan berjalan dan sekarang range tanggal pada query di bypass/null" />
     <MESSAGE value="[change] - query data dibatasi tangga pengajuan 2 bulan dari bulan berjalan" />
     <MESSAGE value="[add] - mandatory update" />
@@ -462,6 +459,7 @@
     <MESSAGE value="[rename] - v2.0.1&#10;&#10;Description : rename file apk" />
     <MESSAGE value="[rename] - v2.0.0&#10;&#10;Description : optimalisasi" />
     <MESSAGE value="[Enhance] - v2.12&#10;&#10;Change Log CORS Versi 2.1.2 :&#10;1. Attachment Foto dapat menampilkan lampiran foto tanpa harus klik file foto.&#10;2. Penambahan fitur Carousel (Slide gambar) apabila foto yang dilampirkan lebih dari satu.&#10;3. Notifikasi (Dashboard &gt; Lonceng) : &#10;- Perubahan keterangan list pengajuan pada Notifikasi.&#10;- Saat diklik, sistem langsung mengarahkan ke detail pengajuan terkait.&#10;4. Preview pengajuan dibuat full layar pada menu Notifikasi &amp; Request Applicant.&#10;5. Perubahan penyajian data pada &quot;See Details&quot; BS &amp; PBS : &#10;* Pengajuan BS → tampilkan hanya detail pengajuan BS.&#10;* Pengajuan PBS → tampilkan lengkap BS+PBS.&#10;6. Lampiran foto ZIP pada pengajuan bisa dilakukan download. &#10;7. Optimasi Load Data Aplicant (Percepatan Penyajian Data)" />
-    <option name="LAST_COMMIT_MESSAGE" value="[Enhance] - v2.12&#10;&#10;Change Log CORS Versi 2.1.2 :&#10;1. Attachment Foto dapat menampilkan lampiran foto tanpa harus klik file foto.&#10;2. Penambahan fitur Carousel (Slide gambar) apabila foto yang dilampirkan lebih dari satu.&#10;3. Notifikasi (Dashboard &gt; Lonceng) : &#10;- Perubahan keterangan list pengajuan pada Notifikasi.&#10;- Saat diklik, sistem langsung mengarahkan ke detail pengajuan terkait.&#10;4. Preview pengajuan dibuat full layar pada menu Notifikasi &amp; Request Applicant.&#10;5. Perubahan penyajian data pada &quot;See Details&quot; BS &amp; PBS : &#10;* Pengajuan BS → tampilkan hanya detail pengajuan BS.&#10;* Pengajuan PBS → tampilkan lengkap BS+PBS.&#10;6. Lampiran foto ZIP pada pengajuan bisa dilakukan download. &#10;7. Optimasi Load Data Aplicant (Percepatan Penyajian Data)" />
+    <MESSAGE value="[change] - fullscreen untuk detail item CORS (Bottom Dialog), screen Budget Report&#10;[change] - Photo gallery/carousel/preview di attach dokumen foto di screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="[change] - fullscreen untuk detail item CORS (Bottom Dialog), screen Budget Report&#10;[change] - Photo gallery/carousel/preview di attach dokumen foto di screen" />
   </component>
 </project>
