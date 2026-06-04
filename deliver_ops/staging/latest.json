@@ -1,0 +1,8 @@
+{
+  "flavor": "staging",
+  "version": "1.0.0",
+  "buildNumber": 1,
+  "apkName": "dev_ops_staging_v1.0.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/staging/dev_ops_staging_v1.0.0.apk",
+  "sha256": ""
+}
