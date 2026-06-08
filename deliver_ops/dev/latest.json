@@ -1,8 +1,8 @@
 {
   "flavor": "dev",
-  "version": "1.0.8",
-  "buildNumber": 8,
-  "apkName": "dev_ops_dev_v1.0.8.apk",
-  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/dev/dev_ops_dev_v1.0.8.apk",
+  "version": "1.0.9",
+  "buildNumber": 9,
+  "apkName": "dev_ops_dev_v1.0.9.apk",
+  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/dev/dev_ops_dev_v1.0.9.apk",
   "sha256": ""
 }
