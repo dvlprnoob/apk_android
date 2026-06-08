@@ -4,5 +4,11 @@
   "buildNumber": 9,
   "apkName": "dev_ops_dev_v1.0.9.apk",
   "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/dev/dev_ops_dev_v1.0.9.apk",
+  "message": "Update versi 1.0.9: perbaikan bug dan peningkatan stabilitas aplikasi.",
+  "changelog": [
+    "Perbaikan bug pada aplikasi.",
+    "Peningkatan stabilitas aplikasi.",
+    "Optimasi performa untuk penggunaan harian."
+  ],
   "sha256": ""
 }
