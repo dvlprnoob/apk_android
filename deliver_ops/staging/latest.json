@@ -1,14 +1,14 @@
 {
   "flavor": "staging",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "buildNumber": 1,
-  "apkName": "dev_ops_staging_v1.0.3.apk",
-  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/staging/dev_ops_staging_v1.0.3.apk",
-  "message": "APK pertama untuk staging: versi 1.0.2, build 2.",
+  "apkName": "dev_ops_staging_v1.0.4.apk",
+  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/staging/dev_ops_staging_v1.0.4.apk",
+  "message": "APK pertama untuk staging: versi 1.0.4, build 1.",
   "changelog": [
-    " - [Fix] Kamera Absen Untuk Freelance.",
-    " - [Add] Foto Untuk Monitoring Kurir (Khusus Validator).",
-    " - [Fix] Cache untuk Download APK pada Saat Update."
+    " - [Fix] Issue Trip yang ada di Validator",
+    " - [Add] Validasi tidak bisa scan QR Code dari Hub Lain",
+    " - [Fix] Cache untuk area, ring , zona"
   ],
   "sha256": ""
 }
