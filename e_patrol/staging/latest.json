@@ -3,7 +3,7 @@
   "version": "1.0.0-staging",
   "buildNumber": 1,
   "apkName": "epatrol_staging_v1.0.0.apk",
-  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/epatrol/staging/epatrol_staging_v1.0.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/e_patrol/staging/epatrol_staging_v1.0.0.apk",
   "message": "APK pertama untuk staging: versi 1.0.0, build 1.",
   "changelog": [
     "[Initialize] APK pertama untuk staging: versi 1.0.0, build 1."
