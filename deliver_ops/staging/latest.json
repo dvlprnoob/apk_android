@@ -1,10 +1,10 @@
 {
   "flavor": "staging",
   "version": "1.0.4-staging",
-  "buildNumber": 4,
+  "buildNumber": 5,
   "apkName": "dev_ops_staging_v1.0.4.apk",
   "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/staging/dev_ops_staging_v1.0.4.apk",
-  "message": "APK pertama untuk staging: versi 1.0.4, build 3.",
+  "message": "APK pertama untuk staging: versi 1.0.4, build 4.",
   "changelog": [
     "[Fix] FLCODE Buat TGR ID Yang ada mengandung FL"
   ],
