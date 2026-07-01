@@ -1,12 +1,12 @@
 {
   "flavor": "staging",
   "version": "1.0.4-staging",
-  "buildNumber": 7,
+  "buildNumber": 8,
   "apkName": "dev_ops_staging_v1.0.4.apk",
   "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/staging/dev_ops_staging_v1.0.4.apk",
-  "message": "APK pertama untuk staging: versi 1.0.4, build 7.",
+  "message": "APK pertama untuk staging: versi 1.0.4, build 8.",
   "changelog": [
-    "[Fix]"
+    "[Fix] Monitoring: Perbaikan bug pada fitur monitoring untuk meningkatkan stabilitas."
   ],
   "sha256": ""
 }
