@@ -1,12 +1,12 @@
 {
   "flavor": "staging",
   "version": "1.0.4-staging",
-  "buildNumber": 8,
+  "buildNumber": 9,
   "apkName": "dev_ops_staging_v1.0.4.apk",
   "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/staging/dev_ops_staging_v1.0.4.apk",
-  "message": "APK pertama untuk staging: versi 1.0.4, build 8.",
+  "message": "APK pertama untuk staging: versi 1.0.4, build 9.",
   "changelog": [
-    "[Fix] Monitoring: Perbaikan bug pada fitur monitoring untuk meningkatkan stabilitas."
+    "[Fix] Installation shorebird buat patch kecil"
   ],
   "sha256": ""
 }
