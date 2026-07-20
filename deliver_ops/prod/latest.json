@@ -1,12 +1,12 @@
 {
   "flavor": "prod",
   "version": "1.0.0",
-  "buildNumber": 2,
+  "buildNumber": 3,
   "apkName": "dev_ops_prod_v1.0.0.apk",
   "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/prod/dev_ops_prod_v1.0.0.apk",
-  "message": "APK pertama untuk prod: versi 1.0.0, build 2.",
+  "message": "APK pertama untuk prod: versi 1.0.0, build 3.",
   "changelog": [
-    "[Initialize] APK pertama untuk prod: versi 1.0.0, build 2."
+    "[Initialize] APK pertama untuk prod: versi 1.0.0"
   ],
   "sha256": ""
 }
