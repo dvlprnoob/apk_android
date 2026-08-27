@@ -1,12 +1,12 @@
 {
   "flavor": "prod",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "buildNumber": 1,
-  "apkName": "epatrol_v1.1.1.apk",
-  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/e_patrol/prod/epatrol_prod_v1.1.1.apk",
-  "message": "APK pertama untuk prod: versi 1.1.1, build 1.",
+  "apkName": "epatrol_v1.1.2.apk",
+  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/e_patrol/prod/epatrol_prod_v1.1.2.apk",
+  "message": "APK pertama untuk prod: versi 1.1.2, build 1.",
   "changelog": [
-    "Login Error Fix"
+    "[Fix] Camera crash pada saat foto"
   ],
   "sha256": ""
 }
