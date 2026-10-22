@@ -1,10 +1,10 @@
 {
   "flavor": "staging",
-  "version": "1.0.4-staging",
+  "version": "1.1.0-staging",
   "buildNumber": 11,
-  "apkName": "dev_ops_staging_v1.0.4.apk",
-  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/staging/dev_ops_staging_v1.0.4.apk",
-  "message": "APK pertama untuk staging: versi 1.0.4, build 11.",
+  "apkName": "dev_ops_staging_v1.1.0.apk",
+  "apkUrl": "https://raw.githubusercontent.com/dvlprnoob/apk_android/main/deliver_ops/staging/dev_ops_staging_v1.1.0.apk",
+  "message": "APK pertama untuk staging: versi 1.1.0, build 11.",
   "changelog": [
     "[Fix] UI Detail Trip"
   ],
